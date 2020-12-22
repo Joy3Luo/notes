@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Hola! this is Joy
+description: ʕ •ᴥ•ʔ
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /IMG_4405.JPG
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /23.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Joy Luo
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/joy3luo
 google_site_verification: xxxxx
 lang: en
 
@@ -47,13 +47,13 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+# google_analytics: G-TG0XJZG53F
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Joy Luo
+  url: https://github.com/joy3luo/
+  email: zshyly@gmail.com
